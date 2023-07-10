@@ -6,3 +6,4 @@ Fifth commit
 Welcome to git pull
 Welcome to git pull v2
 Welcome to git fetch
+SSH auth
